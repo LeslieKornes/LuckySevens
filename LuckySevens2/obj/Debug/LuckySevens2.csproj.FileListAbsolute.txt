@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LuckySevens2\LuckySevens2\bin\Debug\LuckySevens2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LuckySevens2\LuckySevens2\bin\Debug\LuckySevens2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LuckySevens2\LuckySevens2\bin\Debug\LuckySevens2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LuckySevens2\LuckySevens2\obj\Debug\LuckySevens2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LuckySevens2\LuckySevens2\obj\Debug\LuckySevens2.pdb
